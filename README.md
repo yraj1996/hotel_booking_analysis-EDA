@@ -1,4 +1,4 @@
-# Hotel Booking Anaysis-EDA
+# Hotel Booking Analysis-EDA
 ![STAAH-guests-at-hotel-reception-check-in](https://user-images.githubusercontent.com/109631137/180631271-b3d87a4a-ccd3-46d7-8007-b1d70da65c22.png)
 ## objective
 We are provided with a hotel bookings dataset.

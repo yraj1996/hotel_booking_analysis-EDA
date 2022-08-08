@@ -64,11 +64,11 @@ Performed EDA and tried answering the following questions:
 8. Let's try to analyse the total no of cancelation made in each month.
 9. no. of cancellation in each type of hotel.
 10. Which meal type is most preffered meal by customers?
-11. What is realtionship between ADR and total stay of guests?
+11. What is relationship between ADR and total stay of guests?
 12. Relationship between 'not getting prefered room' and 'booking cancellation'?
 13. Relationship between room allotment and adr.
 14. Find any positive and negative impact of relationship between lead time and bookings?
-15. What kind of realtionship between Hotel price and arriving months?
+15. What kind of relationship between Hotel price and arriving months?
 16. overall correlation between the numerical data.
 ## Conclusion
 1. Around 60% bookings are for City hotel and 40% bookings are for Resort hotel.But there is also more no of cancellation in City Hotel in comaprison to Resort Hotel.

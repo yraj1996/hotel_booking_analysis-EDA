@@ -75,15 +75,15 @@ Performed EDA and tried answering the following questions:
 2. Most of visitors are from Portugal,France, Great Britain, and Spain.
 3. Bookings through online and offline travel agents are higher.
 4. The travel agents whether online/offline have the highest distribution rates.
-5. Transient type customer make more bookings in comaprison to others and there cancellation rate is also higher.
+5. Transient type customer make more bookings in comparison to others and there cancellation rate is also higher.
 6. Not getting same room as reserved, longer lead time and waiting time do not affect cancellation of bookings.
 7. May,October and april are most busiest month as most no of guest arrive in these months.
 8. Most preferred meal type among customers is BB (Bed and breakfast).
 9. Resort Hotels are more expensive than City Hotels. Resort hotels prices also see some up and down during peak and off season where as City hotels maintain a constant price with little ups and downs.
-10. The more lead time leads to less number of cancellation. It shows the customers who make thier plans in advance are highly unlikely to cancel their booking.
+10. The more lead time leads to less number of cancellation. It shows the customers who make their plans in advance are highly unlikely to cancel their booking.
 11. customers who didn't get preferred room, they pay slightly less money that means different room allotment do lowers the adr.
 12. There is no impact on bookings cancellation even after customers are not getting preferred rooms.
-13. As customers stays increase their is slight decrease in adr.
+13. As customers stays increase there is slight decrease in adr.
 
 ## From this EDA project, the following concepts were learnt:
 - Basic inspection of the raw data with the use of python and it's libraries.
